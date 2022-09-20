@@ -3,3 +3,4 @@ kimchi
 sauerkraut
 tempeh
 kefir
+cheese
